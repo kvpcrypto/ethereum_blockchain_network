@@ -1,4 +1,6 @@
-# UMFinTechModule19
+# Ethereum Blockchain App
+
+Integrated the Ethereum blockchain network into a web app that allows users to send cryptocurrency payments to hire employees.
 
 
 ## Streamlit Webpage
